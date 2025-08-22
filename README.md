@@ -31,8 +31,6 @@ After running the simulation, check the `results/` folder for:
 - **Performance charts**: How fast each algorithm ran
 - **Path visualizations**: Maps showing the routes taken
 - **Replanning analysis**: How algorithms adapted to hazards
-- **HTML report**: Interactive analysis with detailed metrics
-- **Academic tables**: LaTeX-formatted tables for research papers
 
 ## The Algorithms
 
@@ -45,4 +43,3 @@ After running the simulation, check the `results/` folder for:
 - **Route**: 4.6km from Notre-Dame Cathedral to Arc de Triomphe in Paris
 - **Hazards**: Fire, flood, traffic incidents, building collapses
 - **Real Data**: Uses actual Paris street network from OpenStreetMap
-- **Duration**: Takes about 2-5 minutes to complete
